@@ -1,0 +1,42 @@
+89 12 32 32
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#a=walltop.png
+#b=wallmid.png
+#c=wallbottom.png
+#d=wall2top.png
+#e=wall2mid.png
+#f=wall2bottom.png
+#g=windowA.png
+#h=windowB.png
+#i=windowC.png
+#j=windowD.png
+#k=windowE.png
+#l=windowF.png
+#n=building1.png
+#o=building2.png
+#p=building3.png
+#q=building4.png
+#r=building.png
+#w=roofend.png
+#s=roofstart.png
+#t=computer.png
+#m=rooftop.png
+// The actual tile map is preceded by the #map line
+#map
+q.......................................................................................q
+q.......................................................................................p
+p.......................................................................................q
+q.......................................................................................p
+p.......................................................................................o
+o.......................................................................................n
+n......................smmmmmmw........................................smmmmmmw........tr
+r..........smmmmmmw.....aghghd.............................smmmmmmw.....aghghd.....smmmmm
+mmmmmmw.....aghghd......bijije.................smmmmmmw.....aghghd......bijije......aghgh
+aghghd......bijije......cklklf.....smmmmmmw.....aghghd......bijije......cklklf......bijij
+bijije......cklklf......bijije......aghghd......bijije......cklklf......bijije......cklkl
+cklklf......bijije......cklklf......bijije......cklklf......aghghd......cklklf......bijij
